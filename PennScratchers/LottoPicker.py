@@ -9,7 +9,7 @@ PA = PaLottery()
 PA.init()
 
 def Gross_Prize():
-    """Generator that yeilds the gross prize,
+    """Generator that yields the gross prize,
        for each game. Which can easily be correlated,
        with which game it belongs to via enumeration."""
     for value in PA.gStruct:
@@ -17,7 +17,7 @@ def Gross_Prize():
 
 
 def Gross_Left():
-    """Generator that yeilds the gross amount,
+    """Generator that yields the gross amount,
        of prizes left for each game. Typically,
        used as a helper function but, has other utilities."""
     for value in PA.gStruct:
@@ -25,7 +25,7 @@ def Gross_Left():
 
 
 def Adjusted_Prize():
-    """Generator that yeilds the Adujusted Gross Prize,
+    """Generator that yields the Adujusted Gross Prize,
         which is defined as (GrossPrize // Cost)."""
     for i, value in enumerate(Gross_Prize()):
         yield value // PA.gStruct[i]['Cost']

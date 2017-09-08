@@ -1,4 +1,4 @@
-#                      PennScratchers v0.1.0
+#                      PennScratchers 0.1.0
 #                  created by V11 ("ConcernedCarry")
 #     When creating an instance of PennScratchers dong forget to run the .init() method to fill up your DataStructures!
 #

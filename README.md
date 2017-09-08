@@ -4,5 +4,7 @@
 
 Well Look no further! This project  has taught me a lot while accomplishing something amazing, (in my eyes atleast), it's still a work in progress so please, try not to be too harsh but, anyone is open to improve upon my code and modifying it as they see fit.
 
+This code is by no means refined or finished. It's a work in progress.
+
 Any questions? Or just want to contact me?
 Send all emails here: haxrhax@gmail.com

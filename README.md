@@ -1,4 +1,4 @@
-# Pennsylvannia Lotto Picker v0.1.0
+# Pennsylvannia Lotto Picker 0.1.0
 
 ### Ever wondered what the most profitable Scratch-Offs where to play?
 

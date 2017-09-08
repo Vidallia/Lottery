@@ -1,4 +1,4 @@
-#                         LottoPicker v0.1.0
+#                         LottoPicker 0.1.0
 #                     created by V11 ("ConcernedCarry")
 #         This code is filled with some useful functions/generators that helped me acheive my goal.
 #         

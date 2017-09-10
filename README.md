@@ -1,4 +1,5 @@
-# Pennsylvania Lotto Picker 0.1.0
+# Pennsylvania Lotto Picker 0.1.1
+
 
 ### Ever wondered what the most profitable Scratch-Offs where to play?
 

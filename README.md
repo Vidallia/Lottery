@@ -1,4 +1,4 @@
-# Pennsylvannia Lotto Picker 0.1.0
+# Pennsylvania Lotto Picker 0.1.0
 
 ### Ever wondered what the most profitable Scratch-Offs where to play?
 
@@ -8,3 +8,7 @@ This code is by no means refined or finished. It's a work in progress.
 
 Any questions? Or just want to contact me?
 Send all emails here: haxrhax@gmail.com
+
+
+### Disclaimer:
+####    This code shouldn't be used as a serious attempt to beat the 'State'. It will just hopefully, help you make smarter decisions in regards to which games you do or do not play. Furthermore Pennsylvania Lotto Picker is still in alpha and is more than likely riddled with bugs. USE AT YOUR OWN RISK!

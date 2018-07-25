@@ -2,6 +2,7 @@
 
 
 ### Ever wondered what the most profitable Scratch-Offs where to play?
+[Updated Prizes Left](https://www.palottery.state.pa.us/Scratch-Offs/Print-Scratch-Offs.aspx?gametype=Remaining)
 
 Well Look no further! This project  has taught me a lot while accomplishing something amazing, (in my eyes atleast), it's still a work in progress so please, try not to be too harsh but, anyone is open to improve upon my code and modifying it as they see fit.
 

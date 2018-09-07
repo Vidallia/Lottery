@@ -8,8 +8,8 @@ Well Look no further! This project  has taught me a lot while accomplishing some
 
 This code is by no means refined or finished. It's a work in progress.
 
-Any questions? Or just want to contact me?
-Send all emails here: haxrhax@gmail.com
+I don't check pull requests often but, you can make one if you'd like.
+Also, issues are appreciated!
 
 
 ### Disclaimer:
